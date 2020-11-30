@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculadoraDI</string>
+    <string name="Siete">7</string>
+    <string name="Ocho">8</string>
+    <string name="Nueve">9</string>
+    <string name="Entre">/</string>
+    <string name="Cuatro">4</string>
+    <string name="Cinco">5</string>
+    <string name="Seis">6</string>
+    <string name="Por">X</string>
+    <string name="Uno">1</string>
+    <string name="Dos">2</string>
+    <string name="Tres">3</string>
+    <string name="Menos">-</string>
+    <string name="Punto">.</string>
+    <string name="Cero">0</string>
+    <string name="Igual">=</string>
+    <string name="Mas">+</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Pantalla">Ingrea un Valor</string>
+</resources>
